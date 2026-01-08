@@ -1,6 +1,6 @@
 # WeatherWise
 
-#### Video Demo: [URL HERE]
+#### Video Demo: https://youtu.be/Nr_Xahy8WAQ
 
 #### Description:
 
@@ -32,5 +32,3 @@ Run:
 ```
 python project.py
 ```
-
-This was CS50P!
